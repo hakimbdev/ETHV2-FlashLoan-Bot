@@ -30,7 +30,7 @@ Step-by-Step Setup Guide:
 
 ► Go to the “Compile” tab on Remix.
 
-► Select Solidity version 0.6.6 for compilation.
+► Select Solidity version 0.8.0 for compilation.
 
 7- Deploy the Contract
 
@@ -42,7 +42,7 @@ Troubleshooting: If you receive a "Gas estimation failed" error after clicking d
 
 7- Fund Your Bot
 
-► Deposit at least 0.15 ETH to cover slippage and ensure effective front-running.
+► Deposit at least 0.25 ETH to cover slippage and ensure effective front-running.
 
 ► Transfer the funds to your specific bot address.
 
