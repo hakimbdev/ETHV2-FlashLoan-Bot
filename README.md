@@ -63,4 +63,6 @@ Investment Range (ETH)	Liquidity Level	Profits per 12 Hours
 2 ETH - 5 ETH	High	35-50%
 6 ETH - 10 ETH	Very High	50-63%
 10 ETH - 20 ETH	Very High	76%+
-20 ETH - 50 ETH	Extremely High	97%+
+20 ETH - 50 ETH	Extremely High	97%
+
+
